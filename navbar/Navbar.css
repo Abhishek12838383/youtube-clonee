@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo span{
+    margin-left: 25px;
+}
+.logo img{
+    margin-left: 10px;
+    height: 50px;
+    width: 80px;
+}
+.input{
+    display: flex;
+    align-items: center;
+}
+.input input{
+    height: 21px;
+    width: 200px;
+}
+.input span{
+    border: 1px solid black;
+background-color:lightgrey;
+}
+.profile{
+    margin-right: 25px;
+}
+.profile span{
+    margin-left: 10px;
+}
+.profile img{
+    margin-left: 10px;
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+}

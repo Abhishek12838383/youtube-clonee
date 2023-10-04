@@ -1,0 +1,102 @@
+.sidebar{
+    display: flex;
+}
+.sidebar-1{
+    flex: 0.2;
+    margin-left: 25px;
+}
+.ho{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.ho h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
+.ho:hover{
+    background-color: gray;
+}
+
+.explore{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.explore:hover{
+    background-color: gray;
+}
+.explore h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
+
+.sub{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.sub:hover{
+    background-color: gray;
+}
+.sub h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
+
+/* v */
+.video{
+    /* display: flex; */
+    flex: 0.8;
+    margin-top: 10px;
+    margin-left: 5px;
+ }
+ .video-2{
+    /* display: flex; */
+    flex: 0.8;
+    margin-top: 10px;
+    margin-left: 5px;
+ }
+ .v{
+    margin-top: 10px;
+    margin-left: 35px;
+ }
+ .v img{
+    border-radius: 10px;
+ height: 150px;
+ width: 210px;
+ }
+ .p img{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+ }
+ .p{
+    display: flex;
+    align-items: center;
+ }
+ .p-1{
+    display: flex;
+    align-items: center;
+ }
+ .nam{
+    font-size: 12px;
+    margin-left: 27px;
+ }
+ .view{
+    font-size: 12px;
+    margin-left: 27px;
+ }
+ .vv{
+    display: flex;
+    justify-content: space-between;
+ }
+ .video-2{
+    margin-left: 30px;
+ }
+ .video-3{
+    margin-left: 30px;
+ }
+ .video-4{
+    margin-left: 30px;
+ }
